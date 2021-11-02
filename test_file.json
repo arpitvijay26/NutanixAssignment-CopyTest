@@ -1,0 +1,24 @@
+{
+  "test_data_details": [
+  {
+      "source": "/Users/arpit/Documents/PycharmProjects/NutanixAssignment/TestFolder/CopyWorkedFine/Source",
+      "destination": "/Users/arpit/Documents/PycharmProjects/NutanixAssignment/TestFolder/CopyWorkedFine/Destination",
+      "os": "posix"
+  },
+  {
+      "source": "/Users/arpit/Documents/PycharmProjects/NutanixAssignment/TestFolder/FileIntegrityIssue/Source",
+      "destination": "/Users/arpit/Documents/PycharmProjects/NutanixAssignment/TestFolder/FileIntegrityIssue/Destination",
+      "os": "posix"
+  },
+  {
+      "source": "/Users/arpit/Documents/PycharmProjects/NutanixAssignment/TestFolder/JunkFilesDestination/Source",
+      "destination": "/Users/arpit/Documents/PycharmProjects/NutanixAssignment/TestFolder/JunkFilesDestination/Destination",
+      "os": "posix"
+  },
+  {
+      "source": "/Users/arpit/Documents/PycharmProjects/NutanixAssignment/TestFolder/FilesMissingInDestination/Source",
+      "destination": "/Users/arpit/Documents/PycharmProjects/NutanixAssignment/TestFolder/FilesMissingInDestination/Destination",
+      "os": "posix"
+  }
+  ]
+}
